@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # 11111
+=======
+>>>>>>> 229eb3f (Changes)
 import logging
 import telepot
 
